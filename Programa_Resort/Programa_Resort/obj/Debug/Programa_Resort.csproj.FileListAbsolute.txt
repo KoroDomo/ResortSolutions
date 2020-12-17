@@ -1,0 +1,15 @@
+C:\Users\DIONISIA 2\source\repos\Programa_Resort\Programa_Resort\bin\Debug\Programa_Resort.exe.config
+C:\Users\DIONISIA 2\source\repos\Programa_Resort\Programa_Resort\bin\Debug\Programa_Resort.exe
+C:\Users\DIONISIA 2\source\repos\Programa_Resort\Programa_Resort\bin\Debug\Programa_Resort.pdb
+C:\Users\DIONISIA 2\source\repos\Programa_Resort\Programa_Resort\obj\Debug\Programa_Resort.csprojAssemblyReference.cache
+C:\Users\DIONISIA 2\source\repos\Programa_Resort\Programa_Resort\obj\Debug\Programa_Resort.FormRS.resources
+C:\Users\DIONISIA 2\source\repos\Programa_Resort\Programa_Resort\obj\Debug\Programa_Resort.Properties.Resources.resources
+C:\Users\DIONISIA 2\source\repos\Programa_Resort\Programa_Resort\obj\Debug\Programa_Resort.csproj.GenerateResource.cache
+C:\Users\DIONISIA 2\source\repos\Programa_Resort\Programa_Resort\obj\Debug\Programa_Resort.csproj.CoreCompileInputs.cache
+C:\Users\DIONISIA 2\source\repos\Programa_Resort\Programa_Resort\obj\Debug\Programa_Resort.exe
+C:\Users\DIONISIA 2\source\repos\Programa_Resort\Programa_Resort\obj\Debug\Programa_Resort.pdb
+C:\Users\DIONISIA 2\source\repos\Programa_Resort\Programa_Resort\obj\Debug\Programa_Resort.formHardRock.resources
+C:\Users\DIONISIA 2\source\repos\Programa_Resort\Programa_Resort\obj\Debug\Programa_Resort.formTortugaBay.resources
+C:\Users\DIONISIA 2\source\repos\Programa_Resort\Programa_Resort\obj\Debug\Programa_Resort.formWestin.resources
+C:\Users\DIONISIA 2\source\repos\Programa_Resort\Programa_Resort\obj\Debug\Programa_Resort.Reservacion.resources
+C:\Users\DIONISIA 2\source\repos\Programa_Resort\Programa_Resort\obj\Debug\Programa_Resort.Resumen.resources
